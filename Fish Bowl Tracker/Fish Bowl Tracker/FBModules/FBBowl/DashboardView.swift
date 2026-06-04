@@ -1,3 +1,11 @@
+//
+//  DashboardView.swift
+//  Fish Bowl Tracker
+//
+//
+
+import SwiftUI
+
 // MARK: - Dashboard
 
 struct DashboardView: View {

@@ -1,3 +1,11 @@
+//
+//  FishBowlViewModel.swift
+//  Fish Bowl Tracker
+//
+//
+
+import SwiftUI
+
 // MARK: - Store
 
 final class FishBowlViewModel: ObservableObject {
