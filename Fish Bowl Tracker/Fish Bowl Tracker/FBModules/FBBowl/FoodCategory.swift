@@ -1,3 +1,11 @@
+//
+//  FoodCategory.swift
+//  Fish Bowl Tracker
+//
+//
+
+import SwiftUI
+
 // MARK: - Models
 
 enum FoodCategory: String, CaseIterable, Codable, Identifiable {

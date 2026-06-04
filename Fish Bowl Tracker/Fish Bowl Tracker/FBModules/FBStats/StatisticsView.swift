@@ -1,3 +1,11 @@
+//
+//  StatisticsView.swift
+//  Fish Bowl Tracker
+//
+//
+
+import SwiftUI
+
 // MARK: - Statistics
 
 struct StatisticsView: View {

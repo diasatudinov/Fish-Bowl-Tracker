@@ -1,3 +1,10 @@
+//
+//  SeaPharmacyView.swift
+//  Fish Bowl Tracker
+//
+//
+
+import SwiftUI
 
 // MARK: - Pharmacy
 
