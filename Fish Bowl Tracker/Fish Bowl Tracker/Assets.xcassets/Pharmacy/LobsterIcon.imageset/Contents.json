@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "LobsterIcon.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
